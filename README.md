@@ -5,7 +5,7 @@
 
 ---
 
-## 🔧 What I Work With
+## 🔧 Tech Stack I Work With
 - **Kubernetes** — AKS in production, Helm charts, GitOps delivery with ArgoCD, HPA tuning  
 - **Infrastructure as Code** — Terraform (modular, reusable), ARM, Azure Bicep  
 - **CI/CD** — GitLab CI/CD, Azure DevOps, Maven; pipeline orchestration across microservices  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🔭 What I'm Working On Right Now
+## 🔧 My Current Daily Activities
 - **CI/CD Workflow Optimization** — Templatizing Azure DevOps pipelines with PowerShell & Shell scripting to accelerate delivery and reduce manual effort.  
 - **Infrastructure-as-Code Automation** — Converting Azure Bicep templates to Terraform, importing production resources into Terraform state, and building reusable modules to cut deployment time by 40%.  
 - **Kubernetes Reliability Engineering** — Automating workloads with Helm, integrating into CI/CD pipelines, and improving uptime while reducing cloud expenditure.  
