@@ -1,7 +1,7 @@
 # Hi, I'm Jaskaran Singh 👋
 
 💻 Cloud & DevOps Engineer | Kubernetes | Terraform | Azure | CI/CD  
-7+ years building and automating production cloud infrastructure across enterprise environments. I work across the full lifecycle — from provisioning to deployment pipelines to observability — with a focus on scalability, reliability, and cost optimization.
+7+ years building and automating production cloud infrastructure across enterprise environments. I work across the full lifecycle from provisioning to deployment pipelines to observability with a focus on scalability, reliability, and cost optimization.
 
 ---
 
@@ -16,9 +16,12 @@
 ---
 
 ## 🔭 What I'm Working On Right Now
-- **AI-assisted infrastructure decisions** — Using LLMs for resource right‑sizing and capacity planning in Kubernetes  
-- **Azure cost optimisation** — Automating spend analysis, eliminating idle resources, implementing budget alerts  
-- **Infra security hardening** — Rollback strategies with ArgoCD, network policy enforcement, secure CI/CD pipelines  
+- **CI/CD Workflow Optimization** — Templatizing Azure DevOps pipelines with PowerShell & Shell scripting to accelerate delivery and reduce manual effort.  
+- **Infrastructure-as-Code Automation** — Converting Azure Bicep templates to Terraform, importing production resources into Terraform state, and building reusable modules to cut deployment time by 40%.  
+- **Kubernetes Reliability Engineering** — Automating workloads with Helm, integrating into CI/CD pipelines, and improving uptime while reducing cloud expenditure.  
+- **FastAPI Orchestration** — Deploying Python-based FastAPI endpoints on Azure Container Apps to trigger pipelines for service patching, ensuring scalable and resilient deployments.  
+- **Secure GitOps Practices** — Implementing GPG-signed commits and rollback strategies with ArgoCD to strengthen compliance and enable rapid recovery during releases.  
+- **Cloud Cost Optimization** — Analyzing resource utilization and automating spend controls to reduce Azure costs by up to 25%.   
 
 ---
 
